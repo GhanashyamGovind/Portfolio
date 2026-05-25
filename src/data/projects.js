@@ -13,8 +13,24 @@ export const projects = [
       "Deployed on AWS EC2 instance",
       "MVC architecture with EJS templating",
     ],
-    github: "https://github.com/GhanashyamGovind",
+    github: "https://github.com/GhanashyamGovind/SOLEUS",
     live: "https://thesoleus.shop/",
     featured: true,
   },
+  {
+    id: 2,
+    title: "Chat-Bot",
+    subtitle: "Mini Chat-bot",
+    description:
+      "A mini React chat-bot project, with responsive message and responsive design",
+    tech: ["React", "JavaScript", "CSS"],
+    category: "Front End",
+    highlights: [
+      "Responsive Messages",
+      "User friendly interface",
+    ],
+    github: "https://github.com/GhanashyamGovind/Mini-ChatBot",
+    live: null,
+    featured: true,
+  }
 ];
